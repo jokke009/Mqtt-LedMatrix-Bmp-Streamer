@@ -4,7 +4,8 @@
   "description": "A service that publishes Mqtt message to a broker containing bmp data for a an esp device to show on a led matrix",
   "main": "index.js",
   "dependencies": {
-    "iconv-lite": "^0.4.24"
+    "iconv-lite": "^0.4.24",
+    "mqtt": "^2.18.8"
   },
   "devDependencies": {},
   "scripts": {
