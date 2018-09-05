@@ -1,0 +1,31 @@
+{
+  "name": "mqttbmpstreamer",
+  "version": "1.0.0",
+  "description": "A service that publishes Mqtt message to a broker containing bmp data for a an esp device to show on a led matrix",
+  "main": "index.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokke009/Mqtt-LedMatrix-Bmp-Streamer.git"
+  },
+  "keywords": [
+    "mqtt",
+    "16x16",
+    "led",
+    "matrix",
+    "chinese",
+    "hanzi"
+  ],
+  "author": "Joost Vercruysse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jokke009/Mqtt-LedMatrix-Bmp-Streamer/issues"
+  },
+  "homepage": "https://github.com/jokke009/Mqtt-LedMatrix-Bmp-Streamer#readme"
+}
